@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 ################################################################################
 # Script name: prepWorkerImage.sh
-# Version: 2
 # Author: Marco Tijbout - CrossCloud.Guru
+# License: GNU GPL v2.0
+# Version: 2
 #
 # History:
 #   2 - Added check if tftp share already exists in /etc/exports
