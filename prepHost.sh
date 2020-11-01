@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Author: Marco Tijbout - CrossCloud.Guru
+# License: GNU GPL v2.0
+# Version: 1
 
 ## Enhancement Tips:
 #   Acquire details from input file
