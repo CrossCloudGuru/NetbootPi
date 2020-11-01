@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 ################################################################################
 # Script name: prepNetbootWorker.sh
+# Author: Marco Tijbout - CrossCloud.Guru
+# License: GNU GPL v2.0
 # Version: 1.0
 #
 # Usage:
